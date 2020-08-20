@@ -1,7 +1,6 @@
 # Updated Animation Starter Code
 
 from tkinter import *
-from googletrans import Translator
 import random
 
 ####################################
