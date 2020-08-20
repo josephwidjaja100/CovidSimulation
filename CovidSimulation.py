@@ -1,12 +1,3 @@
-'''
-from googletrans import Translator
-
-translator = Translator()
-translated = translator.translate('nihao')
-
-print(translated.text)
-'''
-
 # Updated Animation Starter Code
 
 from tkinter import *
